@@ -18,8 +18,6 @@ Grâce à tes requêtes SQL, la base de données de "Run & Win RDC" est enfin pr
 
 * **Importer et transformer des données** : Utiliser Power Query pour nettoyer et préparer les tables.
 
-* **Modéliser des données** : Construire un "Modèle en Étoile" en créant des relations (1 à plusieurs) entre tes tables.
-
 * **Créer des mesures DAX** : Écrire des formules de base (SUM, COUNT) pour calculer des indicateurs clés (KPIs).
 
 * **Concevoir des visualisations** : Choisir le bon graphique (courbe, barre, carte) en fonction du message à faire passer.
